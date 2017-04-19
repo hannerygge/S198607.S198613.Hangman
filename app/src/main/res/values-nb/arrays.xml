@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="kategorier">
+        <item>henrettelse</item>
+        <item>tortur</item>
+        <item>død</item>
+        <item>våpen</item>
+        <item>sykdom</item>
+    </string-array>
+
+    <string-array name="execution">
+        <item>henging</item>
+        <item>halshogging</item>
+        <item>elektrosjokk</item>
+    </string-array>
+
+    <string-array name="torture">
+        <item>kinesisk vann tortur</item>
+        <item>bambus under negl</item>
+        <item>lemlesting</item>
+    </string-array>
+
+    <string-array name="death">
+        <item>drukning</item>
+        <item>forgiftet</item>
+        <item>selvmord</item>
+        <item>spist</item>
+        <item>fall</item>
+        <item>levende begravd</item>
+        <item>kullosforgiftning</item>
+    </string-array>
+
+    <string-array name="weapon">
+        <item>pistol</item>
+        <item>kniv</item>
+        <item>spyd</item>
+        <item>sverd</item>
+        <item>ljå</item>
+        <item>kanon</item>
+        <item>pil og bue</item>
+        <item>stav</item>
+        <item>granat</item>
+    </string-array>
+
+    <string-array name="decease">
+        <item>kreft</item>
+        <item>hjertesvikt</item>
+        <item>blodpropp</item>
+        <item>diabetes</item>
+        <item>infarkt</item>
+        <item>vannkopper</item>
+        <item>rabies</item>
+        <item>slag</item>
+    </string-array>
+</resources>

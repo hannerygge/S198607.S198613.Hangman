@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Gallows</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonnewgame">Nytt Spill</string>
+    <string name="buttonrules">Regler</string>
+    <string name="buttonlanguage">Språk</string>
+    <string name="buttonexit">Avslutt</string>
+    <string name="header">La Oss Spille Hangman</string>
+    <string name="ok">Avslutt</string>
+    <string name="ikkeok">Tilbake</string>
+    <string name="alfabet">abcdefghijklmnopqrstuvwxyzøæå</string>
+    <string name="won">Du vant!</string>
+    <string name="lost">Du tapte!</string>
+    <string name="fortsett">Ønsker du å fortsette?</string>
+    <string name="kategori">Velg kategori</string>
+    <string name="execution">Henrettelse</string>
+    <string name="torture">Tortur</string>
+    <string name="death">Død</string>
+    <string name="weapons">Våpen</string>
+    <string name="decease">Sykdom</string>
+    <string name="spill">Spill</string>
+    <string name="språkspm">Velg Språk: </string>
+    <string name="språk">Bytt Språk!</string>
+    <string name="language">Engelsk</string>
+    <string name="riktigord">Riktid ord var: </string>
+    <string name="antallvinn">Antall vinn: </string>
+    <string name="antalltap">Antall tap: </string>
+    <string name="antallsammenhengendevinn">Antall sammenhengende vinn: </string>
+    <string name="ja">ja</string>
+    <string name="nei">nei</string>
+    <string name="quitstring">Er du sikker på at du vil avslutte?</string>
+
+    <string name="tomt">Du har ikke flere ord igjen!</string>
+    <string name="tilbaketilmeny">Gå tilbake til menyen for å starte et nytt spill.</string>
+
+
+ <string name="regler">
+velg kategori (hvis vi har med)
+
+spilleren vil bli tildelt et ord som spilleren skal komme frem til.
+
+en bokstav skal gjettes av gangen.
+
+
+spilleren gjetter ved å velge en bokstav og deretter klikke på den.
+
+hvis bokstaven er med i ordet vil denne bli skrevet opp på alle de riktige plassene i ordet.
+er bokstaven ikke er med i ordet vil en kroppsdel bli tegnet opp i galgen
+(hode, kropp, venste arm, høyre arm, venste ben, høyre ben).
+
+spilleren vil fortsette å gjette bokstaver helt til hele ordet er
+gjettet riktig eller alle kroppsdelene er tegnet opp i galgen og mannen er hengt</string>
+</resources>

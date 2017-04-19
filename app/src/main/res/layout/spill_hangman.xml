@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:id="@+id/toplayout">
+
+
+
+    <TextView
+        android:text=""
+        android:layout_width="fill_parent"
+        android:layout_height="300dp"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:padding="10dp"
+        android:id="@+id/test1"
+        android:background="@drawable/bilde1"/>
+
+    <LinearLayout
+        android:id="@+id/ordlayout"
+        android:background="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/test1"
+        android:textColor="#ffffff">
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:background="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/linje1"
+        android:layout_below="@id/ordlayout"
+        android:layout_centerHorizontal="true"
+        >
+</LinearLayout>
+
+
+    <LinearLayout
+
+        android:background="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/linje2"
+        android:layout_below="@id/linje1">
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:background="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/linje3"
+        android:layout_below="@id/linje2"
+        android:layout_centerHorizontal="true">
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:background="#000000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/linje4"
+        android:layout_below="@id/linje3">
+
+    </LinearLayout>
+</RelativeLayout>

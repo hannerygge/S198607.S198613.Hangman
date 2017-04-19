@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Gallows</string>
+    <string name="buttonnewgame">New Game</string>
+    <string name="buttonrules">Rules</string>
+    <string name="buttonlanguage">Language</string>
+    <string name="buttonexit">Exit</string>
+    <string name="header">Lets Play Hangman</string>
+    <string name="alfabet" id="test">abcdefghijklmnopqrstuvwxyz</string>
+    <string name="ok">Quit</string>
+    <string name="ikkeok">Back</string>
+    <string name="won">You win!</string>
+    <string name="lost">You lost!</string>
+    <string name="fortsett">Do you wish to continue?</string>
+    <string name="kategori">Choose a category</string>
+    <string name="execution">Execution</string>
+    <string name="torture">Torture</string>
+    <string name="death">Death</string>
+    <string name="weapons">Weapon</string>
+    <string name="decease">Decease</string>
+    <string name="spill">Play</string>
+    <string name="språkspm">Choose Language: </string>
+    <string name="språk">Change Language!</string>
+    <string name="language">Norwegian</string>
+    <string name="tomt">You are out of words!</string>
+    <string name="tilbaketilmeny">Go back to the menu to start a new game.</string>
+    <string name="riktigord">The correct word was: </string>
+    <string name="antallvinn">Number of won games: </string>
+    <string name="antalltap">Number of games lost: </string>
+    <string name="antallsammenhengendevinn">Number of consecutive wins: </string>
+    <string name="yes">yes</string>
+    <string name="nei">no</string>
+
+    <string name="quit">Quit</string>
+    <string name="quitstring">Are you sure you want to quit?</string>
+    <string name="regler">
+
+how to play
+choose a category (if applicable)
+the player will be given a word that the player will have to guess.
+the player will guess one letter at a time.
+the player will guess a letter by selecting a button and then pressing it.
+is the letter is in the word then the letter will be written everywhere it appears in the word.
+is the letter is not part of the word, one bodypart will be drawn into the gallows (head, body, left arm, right arm, left leg, right leg).
+the player will continue to guess letters until either the word is complete or all the body parts are drawn into the gallows and the man is hung.
+
+</string>
+
+</resources>

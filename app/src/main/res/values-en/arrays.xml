@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategorier">
+        <item>execution</item>
+        <item>torture</item>
+        <item>death</item>
+        <item>weapon</item>
+        <item>decease</item>
+    </string-array>
+
+    <string-array name="execution">
+        <item>hanging</item>
+        <item>decapitation</item>
+        <item>electrocution</item>
+    </string-array>
+
+    <string-array name="torture">
+        <item>chinese water torture</item>
+        <item>bamboo under fingernail</item>
+        <item>maim</item>
+    </string-array>
+
+    <string-array name="death">
+        <item>drowning</item>
+        <item>poisoning</item>
+        <item>suicide</item>
+        <item>eaten</item>
+        <item>fall</item>
+        <item>buried alive</item>
+        <item>carbon monoxide poisoning</item>
+    </string-array>
+
+    <string-array name="weapon">
+        <item>gun</item>
+        <item>knife</item>
+        <item>spear</item>
+        <item>sword</item>
+        <item>scythe</item>
+        <item>canon</item>
+        <item>bow and arrow</item>
+        <item>staff</item>
+        <item>grenade</item>
+    </string-array>
+
+    <string-array name="decease">
+        <item>cancer</item>
+        <item>heart failure</item>
+        <item>blood clot</item>
+        <item>diabetes</item>
+        <item>infarction</item>
+        <item>chicken pox</item>
+        <item>rabies</item>
+        <item>stroke</item>
+    </string-array>
+</resources>
